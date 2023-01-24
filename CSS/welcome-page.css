@@ -1,0 +1,72 @@
+/* ---------------------- Welcome Page ---------------------- */
+
+/* Welcome Page Section */
+.welcome-page-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 13%;
+}
+
+/* class that contains everything on the Left Side of the Welcome Page */
+.wp-text-container, .button-and-price-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* main title's class (big Maldives text)*/
+.wp-title{
+    color: #588486;
+    font-size: 120px;
+    font-weight: 400;
+    text-align: center;
+}
+
+/* cLass for description between the title and the button */
+.wp-description{
+    color: #588486;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+/* container for the Button and the price Description under it */
+.button-and-price-description{
+    margin-top: 20px;
+}
+
+/* button Class */
+.wp-visit-maldives button{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    background-color: #1A439A;
+    padding: 20px 60px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+/* classes for the Price Description, different classes because they have diferent styling */
+.price-p1, .price-p2{
+    margin-top: 20px;
+    text-align: center;
+}
+.price-p2{
+    color: #588486;
+    font-weight: 700;
+    font-size: larger;
+}
+
+/* class that contains everything on the Right Side of the Welcome Page */
+
+/* image Class on the Welcome Page */
+.wp-image{
+    padding: 50px;
+    height: 600px;
+    width: 569px;
+    border-radius: 100px;
+    margin-left: 9%;
+}

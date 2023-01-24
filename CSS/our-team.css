@@ -1,0 +1,39 @@
+/* ---------------------- Our Team ---------------------- */
+
+.our-team-container .ot-title{
+    color: #0C4245;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.ot-card-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 10%;
+    margin-bottom: 10%;
+}
+
+.ot-card-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ot-image{
+    width: 264px;
+    height: 352px;
+    border-radius: 50px;
+}
+
+.full-name{
+    font-size: 24px;
+    color: #0C4245;
+}
+
+.company-position{
+    font-size: 16px;
+    color: #0C4245;
+}

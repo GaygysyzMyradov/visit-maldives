@@ -1,0 +1,116 @@
+
+/* ---------------------- Your Beautiful Home Page ---------------------- */
+
+.your-beautiful-home-container{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 13%;
+    align-items: center;
+}
+
+.ybh-description-container{
+    color: #588486;
+    text-align: center;
+}
+
+.ybh-title{
+    color: #0C4245;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.ybh-description{
+    margin: 10% 0px;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.connector{
+    height: 60%;
+    width: 60%;
+}
+
+.ybh-hotels-container{
+    margin-top: 5%;
+    display: flex;
+    justify-content: left;
+    padding: 0px 13%;
+}
+
+.ybh-hotel{
+    width: 470px;
+    height: 336px;
+    border-radius: 50px;
+}
+
+.ybh-icons-grid-container{
+    margin-left: 15%;
+    margin-top: 5%;
+    display: grid;
+    justify-content: left;
+    align-content: center;
+    grid-template-columns: 150px 150px;
+    grid-template-rows: 150px 150px;
+    grid-column-gap: 35%
+}
+
+.ybh-icons-grid-container img{
+    height: 48px;
+    width: 48px; 
+}
+
+.icon-grid .icon-staff{
+    margin-left: 33%;
+}
+
+.icon-grid .icon-doctor{
+    margin-left: 33%;
+}
+
+.icon-grid .icon-restaurants{
+    margin-left: 33%;
+}
+
+.icon-grid .icon-disabled{
+    margin-left: 33%;
+}
+
+.icon-grid div{
+    color: #0C4245;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* ---------------------- Hotel Business Page ---------------------- */
+
+.hotel-business-container{
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 13%;
+    margin-bottom: 10%;
+}
+
+.hotel-business-container img {
+    border-radius: 50px;
+    height: 410px;
+}
+
+.hb-description-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #588486;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.hb-description{
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #0C4245;
+}

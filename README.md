@@ -4,4 +4,10 @@ My very first website. Created using mainly HTML and CSS. Additionally, I have u
 
 * * *
 
+# How To Run
+
+Simple open the index.html on/with your browser. 
+
+* * *
+
 If you have suggestions, please feel free to contribute, looking forward to practice and learn more. 

@@ -6,7 +6,7 @@ My very first website. Created using mainly HTML and CSS. Additionally, I have u
 
 ## How To Run
 
-Simple open the index.html on/with your browser or simply watch the DEMO VIDEO [here](https://xmueducn-my.sharepoint.com/:v:/g/personal/cst1904908_xmu_edu_my/EUZFHUZWbaJIhftY91qW4KIBP7bXToltEMrtcPhWRBkBLg?e=vwpg7x)
+Simple open the index.html on/with your browser or simply watch the _demo video_ [here](https://xmueducn-my.sharepoint.com/:v:/g/personal/cst1904908_xmu_edu_my/EUZFHUZWbaJIhftY91qW4KIBP7bXToltEMrtcPhWRBkBLg?e=vwpg7x)
 
 * * *
 
